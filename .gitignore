@@ -1,0 +1,26 @@
+# IDE and Editor Files
+.vscode/
+.idea/
+.classpath
+.project
+.settings/
+
+
+# Dependency and Package Files
+node_modules/
+package-lock.json
+venv/
+env/
+*.egg-info/
+dist/
+target/
+*.jar
+
+# Personal or Sensitive Information
+.env
+.env.*
+config.ini
+secret.properties
+personal_notes.txt
+
+
